@@ -1,10 +1,9 @@
 {
-  "name": "voice-podcast-player",
+  "name": "sentiocast",
   "version": "1.0.0",
   "description": "Voice-driven podcast player with smart matching and Reddit integration",
   "main": "index.js",
   "scripts": {
-    "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
